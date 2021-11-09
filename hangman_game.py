@@ -1,4 +1,4 @@
-word = "Beeeeeem"
+word = "Cat"
 def length_string(string) -> int:
     count = 0
     for letter in string:
